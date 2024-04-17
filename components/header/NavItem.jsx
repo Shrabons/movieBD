@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import LangChange from "./langChange";
+import LangChange from "./LangChange";
 
 const NavItem = () => {
   return (
